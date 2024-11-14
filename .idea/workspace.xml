@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bef7c7a-6e7d-41d6-9143-3a9ae6acc504" name="Changes" comment="test 003.....">
-      <change afterPath="$PROJECT_DIR$/git001.py" afterDir="false" />
+    <list default="true" id="9bef7c7a-6e7d-41d6-9143-3a9ae6acc504" name="Changes" comment="이것이 처음으로 올라가야 되는데... 실수로">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git003.py" beforeDir="false" afterPath="$PROJECT_DIR$/git003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +21,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ahnssi9"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ahnssi9&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ahnssi9/ahn001",
-    "accountId": "ee4d5ca0-8e5d-4b7b-b214-1a5f20190d36"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ahnssi9/ahn001&quot;,
+    &quot;accountId&quot;: &quot;ee4d5ca0-8e5d-4b7b-b214-1a5f20190d36&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2op2vXDmT6Q9RvkxPHLpFXslDnK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,12 +52,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,13 +106,30 @@
       <option name="project" value="LOCAL" />
       <updated>1731554374878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="이것이 처음으로 올라가야 되는데... 실수로">
+      <option name="closed" value="true" />
+      <created>1731554584460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731554584460</updated>
+    </task>
+    <task id="LOCAL-00006" summary="이것이 처음으로 올라가야 되는데... 실수로">
+      <option name="closed" value="true" />
+      <created>1731556191142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731556191142</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 002" />
     <MESSAGE value="test 002....." />
     <MESSAGE value="test 003....." />
-    <option name="LAST_COMMIT_MESSAGE" value="test 003....." />
+    <MESSAGE value="이것이 처음으로 올라가야 되는데... 실수로" />
+    <option name="LAST_COMMIT_MESSAGE" value="이것이 처음으로 올라가야 되는데... 실수로" />
   </component>
 </project>
